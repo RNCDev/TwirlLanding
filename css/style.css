@@ -1066,6 +1066,14 @@ body{
 	float:left;
 	background:#edeff7;
 }
+.privacy p{
+	margin:0px auto;
+	padding:0px;
+	color:#000000;
+	text-align:justify;
+	font-size:15px;
+	letter-spacing:0.2px;
+}
 #parent-section{
     padding: 30px 0px;
     margin: 0px auto;
@@ -1121,7 +1129,7 @@ body{
 /*-----------------------------
 	COMMON CSS 
 -------------------------------*/
-#about, #features, #screenshot, #download, #pricing, #reviews, #faq, #contact{
+#about, #features, #screenshot, #download, #pricing, #privacy, #reviews, #faq, #contact{
 	padding:75px 0px;
 	margin:0px auto;
 	width:100%;
