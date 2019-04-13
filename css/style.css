@@ -1097,14 +1097,14 @@ body{
 }
 .footer-logo{
 	text-align:left;
-	 float: left;
+	float: left;
 }
 .footer-logo p{
 	font-weight: bold;
     color: #ffffff;
     font-size: 28px;
     margin: 0px;
-	padding:6px 0px;
+	padding:px 0px;
 }
 .footer-logo a:hover,
 .footer-logo a:focus{
